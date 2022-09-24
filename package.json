@@ -1,0 +1,10 @@
+{
+  "name": "puf-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Anderson da Silva",
+    "email": "anderson.consultant.it@outlook.com"
+  },
+  "license": "MIT"
+}
